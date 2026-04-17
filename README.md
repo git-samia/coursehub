@@ -1,1 +1,1 @@
-# coursehub
+# CourseHub
